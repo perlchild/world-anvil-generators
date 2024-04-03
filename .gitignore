@@ -5,3 +5,4 @@ eugene
 /names/framework/output/
 /venv/
 /.venv/
+.env/
