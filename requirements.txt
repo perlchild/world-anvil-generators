@@ -1,5 +1,6 @@
 openpyxl
 pywaclient~=0.6.5
-requests
+requests~=2.27.1
 simple-elastic
 PyPDF2
+python-dotenv=0.17.1
